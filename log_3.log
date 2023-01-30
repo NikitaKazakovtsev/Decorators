@@ -1,0 +1,4 @@
+<function test_2.<locals>.hello_world at 0x00000211FCE01CF0>, args=(), kwargs={}, 2023-01-30 14:33:57.508439, Hello World
+<function test_2.<locals>.summator at 0x00000211FCE01EA0>, args=(2, 2), kwargs={}, 2023-01-30 14:33:57.511438, 4
+<function test_2.<locals>.div at 0x00000211FCDBB370>, args=(6, 2), kwargs={}, 2023-01-30 14:33:57.514439, 3.0
+<function test_2.<locals>.summator at 0x00000211FCE01EA0>, args=(4.3,), kwargs={'b': 2.2}, 2023-01-30 14:33:57.517440, 6.5

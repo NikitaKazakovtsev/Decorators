@@ -1,0 +1,2 @@
+<class '__main__.FlatIterator'>,args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}, 2023-01-30 14:33:53.034486, <__main__.FlatIterator object at 0x000001E3D08AFB50>
+<class '__main__.FlatIterator'>,args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}, 2023-01-30 14:33:53.038487, <__main__.FlatIterator object at 0x000001E3D08AFD30>
